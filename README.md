@@ -31,3 +31,4 @@ Start the development server:
 ```bash
 npm run dev
 ```
+go to `http://localhost:5173/`
