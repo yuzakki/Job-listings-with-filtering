@@ -9,14 +9,14 @@ The app maintains a clean and organized codebase, follows best practices for Rea
 
 ## Clone the repository
 
-```bash
-git clone https://github.com/yuzakki/To-Do-List-App.git`
-```
+``bash
+git clone https://github.com/yuzakki/Job-listings-with-filtering.git`
+``
 
 Navigate to the project directory:
 
 ```bash
-`cd To-Do-List-App`
+`cd Job-listings-with-filtering`
 ```
 
 Install dependencies:
