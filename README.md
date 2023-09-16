@@ -9,7 +9,7 @@ The app maintains a clean and organized codebase, follows best practices for Rea
 
 ## Clone the repository
 
-``bash
+``
 git clone https://github.com/yuzakki/Job-listings-with-filtering.git`
 ``
 
