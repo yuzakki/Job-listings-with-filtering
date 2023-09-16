@@ -34,7 +34,7 @@ function App() {
           ))}
         </div>
       </div>
-      <footer className="text-base fixed left-2.5 bottom-2 text-stone-300">
+      <footer className="absolute bottom-0 w-full pb-2 text-base text-center text-stone-300">
         Developed by{" "}
         <a
           href="https://haassaaaannnn.netlify.app/"
